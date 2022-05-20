@@ -4,8 +4,8 @@ Este projeto foi gerado com a [Angular CLI](https://github.com/angular/angular-c
 
 ## Pré-Requisitos para Execução Local
 
-Node.js na versão 16.15.0 (https://nodejs.org/pt-br)
-Angular CLI versão 13.3.6 (npm i -g @angular/cli)
+- Node.js na versão 16.15.0 (https://nodejs.org/pt-br)
+- Angular CLI versão 13.3.6 (`npm i -g @angular/cli`)
 
 ## Antes de Executar a Aplicação em Ambiente Local
 
