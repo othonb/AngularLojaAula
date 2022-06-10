@@ -10,7 +10,7 @@ import { catchError } from 'rxjs/operators';
 
 export class ApiService {
 
-  private serverUrl = "http://localhost:3000";
+  private serverUrl = "http://localhost:8080";
 
   constructor(private httpClient: HttpClient) { }
 
